@@ -1,4 +1,4 @@
-# 🔐 Async Signup Payload Generator
+# 🔐 auth Payload Generator
 
 A small experimental Python project that simulates the generation of
 **signup payloads** similar to what modern web applications send to
@@ -39,8 +39,8 @@ structures
 Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/signup-payload-generator
-cd signup-payload-generator
+git clone https://github.com/yourusername/eclqs/auth-token-payload-generator
+cd auth-token-payload-generator
 ```
 
 Install required dependency:
@@ -174,10 +174,11 @@ Real authentication systems should use:
 
 # 👨‍💻 Author
 
-Created by **SPARK (0xSPARK)**\
+Created by **SPARK (devSKO)**\
 Cybersecurity enthusiast focused on: - API security - token analysis -
 payload structures
 
 ------------------------------------------------------------------------
 
 ⭐ If you find this project interesting, consider giving it a star!
+⭐ This Description is made by AI!
