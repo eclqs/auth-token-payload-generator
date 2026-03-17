@@ -39,7 +39,7 @@ structures
 Clone the repository:
 
 ``` bash
-git clone https://github.com/yourusername/eclqs/auth-token-payload-generator
+git clone https://github.com/eclqs/auth-token-payload-generator
 cd auth-token-payload-generator
 ```
 
